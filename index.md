@@ -1,3 +1,3 @@
-Have a look at [this](full.txt)
+Have a look at [this](full.txt) but [here](full.md).
 ---
 :=Luser==xENO
